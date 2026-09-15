@@ -9,5 +9,5 @@ Upload the contents of this folder to the repository root and enable GitHub Page
 - Responsive from small phones through large desktop.
 - Uses the supplied Moor Coffee image/video assets.
 - Real cat imagery is used as a functional navigation assistant rather than a decorative geometric mascot.
-- Coffee and baking videos are user-controlled; no forced autoplay.
+- Coffee and baking videos are user-controlled;
 - No backend.
